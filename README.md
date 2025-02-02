@@ -3,6 +3,7 @@ This repository contains a valid skeletal multibody model imported to Matlab/Sim
 # How to use
 -  download "Fullbody_OpensimModel_in_Simscape.slx".
 -  download "obj" folder.
+-  Set the path of obj folder in Simulink's blocks.
 <img width="959" alt="fullbody" src="https://github.com/user-attachments/assets/b39c603c-9ee2-4481-a2ef-894cc1bc537d" />
 
 
