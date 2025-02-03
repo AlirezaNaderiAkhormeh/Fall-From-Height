@@ -1,5 +1,5 @@
 # Fall-From-Height
-This repository contains a valid skeletal multibody model imported to Matlab/Simscape from a valid OpenSim model[1]. This model has been developed in Matlab2025/b.To refer to this  work site [2].
+This repository contains a valid skeletal multibody model imported to Matlab/Simscape from a valid OpenSim model[1]. This model has been developed in Matlab2025/b.To refer to this  work cite [2].
 # How to use
 -  download "Fullbody_OpensimModel_in_Simscape.slx".
 -  download "obj" folder.
