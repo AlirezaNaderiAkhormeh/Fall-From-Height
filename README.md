@@ -1,5 +1,5 @@
 # Full Body Skeletal Multibody Model in Matlab/Simscape  
-This repository contains a validated skeletal multibody model imported into Matlab/Simscape from a valid OpenSim model [1]. The model has been developed using Matlab 2025b. For referencing this work, please cite [2].  
+This repository contains a validated skeletal multibody model imported into Matlab/Simscape from a valid OpenSim model. The model has been developed using Matlab 2025b. For referencing this work, please cite [1].  
 
 ## How to Use the Simscape Model  
 1. Download **"Fullbody_OpensimModel_in_Simscape.slx"**.  
@@ -41,7 +41,6 @@ https://github.com/user-attachments/assets/06f0dd17-100c-423a-b365-eb4a38f2a423
 ---
 
 ## References  
-- [1] Rajagopal, Apoorva, et al. "Full-body musculoskeletal model for muscle-driven simulation of human gait." *IEEE Transactions on Biomedical Engineering* 63.10 (2016): 2068-2079.  
-- [2] A. N. Akhormeh et al., "Wearable Drone as a Fall Arresting Device: Preliminary Concept and Feasibility Analysis," *2024 20th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)*, Genova, Italy, 2024, pp. 1-7, doi: 10.1109/MESA61532.2024.10704865.  
+- [1] A. N. Akhormeh et al., "Wearable Drone as a Fall Arresting Device: Preliminary Concept and Feasibility Analysis," *2024 20th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)*, Genova, Italy, 2024, pp. 1-7, doi: 10.1109/MESA61532.2024.10704865.  
 
 **Keywords**: Mechatronics, Attitude Control, Gears, Motors, Wearable Devices, Usability, Robots, Drones, Quadrotors, Gravity, Falling from Heights, Wearable Technologies, Wearable Quadrotor Drone, Cold Gas Thruster.  
