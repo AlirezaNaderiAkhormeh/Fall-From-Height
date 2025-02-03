@@ -21,6 +21,10 @@ This repository also includes simulation files for evaluating the feasibility of
 - **Feedback Control System**: Implements a **super twisting sliding mode controller** to stabilize body orientation and reduce impact velocity.  
 - **Multi-Body Dynamics**: Simulates different falling scenarios and body orientations.  
 
+
+https://github.com/user-attachments/assets/e2c338ed-22cc-4a0d-abcc-f8e416aa5c5c
+
+
 ## Installation & Requirements  
 1. Install **Matlab 2024b**.  
 2. Download:  
